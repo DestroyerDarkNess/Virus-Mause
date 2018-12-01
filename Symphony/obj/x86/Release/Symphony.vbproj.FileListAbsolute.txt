@@ -1,0 +1,10 @@
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\bin\Release\Symphony.exe
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\bin\Release\Symphony.pdb
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\bin\Release\Symphony.xml
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Release\Symphony.Form1.resources
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Release\Symphony.Resources.resources
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Release\Symphony.vbproj.GenerateResource.Cache
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Release\Symphony.exe
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Release\Symphony.xml
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Release\Symphony.pdb
+C:\Users\S4L\Documents\Visual Studio 2010\Projects\Symphony\Symphony\obj\x86\Release\Symphony.Microsoft_Office_2013.resources

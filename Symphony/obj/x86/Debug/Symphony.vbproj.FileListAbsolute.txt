@@ -1,0 +1,11 @@
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\bin\Debug\Symphony.exe
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\bin\Debug\Symphony.pdb
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\bin\Debug\Symphony.xml
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Debug\Symphony.vbprojResolveAssemblyReference.cache
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Debug\Symphony.Form1.resources
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Debug\Symphony.Resources.resources
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Debug\Symphony.vbproj.GenerateResource.Cache
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Debug\Symphony.exe
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Debug\Symphony.xml
+C:\Users\S4L\documents\visual studio 2010\Projects\Symphony\Symphony\obj\x86\Debug\Symphony.pdb
+C:\Users\S4L\Documents\Visual Studio 2010\Projects\Symphony\Symphony\obj\x86\Debug\Symphony.Microsoft_Office_2013.resources
