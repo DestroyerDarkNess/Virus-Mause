@@ -1,7 +1,7 @@
 # Virus-Mause
 Virus make in VB.NET
 
-[mostrar](https://www.virustotal.com/#/file/e939df12700eecd8a492d08b1e607817cbb8bacb35a7e1a10fc7283ab18079f3/detection)
+[VirusTotal Scan](https://www.virustotal.com/#/file/e939df12700eecd8a492d08b1e607817cbb8bacb35a7e1a10fc7283ab18079f3/detection)
 
 ## Images
 
